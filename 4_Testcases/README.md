@@ -17,3 +17,5 @@ LL02	   |   check if the BUTTON is pressed|	program execution|	WIPER starts and 
 LL03	   |   check if the BUTTON is pressed|	program execution|	WIPER starts and speed of wiper is moderate |	LED ON(GREEN)	|PASS
 LL04	   |   check if the BUTTON is pressed|	program execution|	WIPER starts and speed of wiper is good	    |LED ON(ORANGE)	|PASS
 LL05	   |   check if the BUTTON is pressed|	-	               | Microcontroller/Engine stops	                |LED TURNED OFF	|PASS
+
+![test case wiper](https://user-images.githubusercontent.com/77101903/168455197-2c808b9b-0238-44c8-b68f-835fbbc6d493.PNG)
