@@ -2,6 +2,9 @@
 # M3_Wiper Control System #
 # Introduction #
 ![th](https://user-images.githubusercontent.com/101357248/168490192-bed1f9bb-091c-4c3a-8329-f8dcdac804d1.jpg)
+     
+     
+   ![giphy](https://user-images.githubusercontent.com/101357248/168491811-efb20ec4-4826-4289-9ad2-5f433e5fd0d4.gif)
 
 
    ![th (1)](https://user-images.githubusercontent.com/101357248/168490220-210d193d-0f8f-4526-bee9-da410ac1a6a8.jpg)
